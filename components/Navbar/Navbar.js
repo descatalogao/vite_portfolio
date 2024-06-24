@@ -1,3 +1,5 @@
+import './Navbar.css'
+
 export const changeTheme = () => {
   const themeBtn = document.querySelector("#themeBtn");
   themeBtn.addEventListener("click", () => {

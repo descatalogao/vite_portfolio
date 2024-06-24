@@ -1,4 +1,4 @@
-// import "./Projects.css";
+import "./Projects.css";
 import { cleanPage } from "../../utils/cleanPage.js";
 import { projects } from "../../data/projects.js";
 import { ProjectCard } from "../../components/ProjectCard/ProjectCard.js";

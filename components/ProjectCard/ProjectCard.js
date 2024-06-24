@@ -1,3 +1,5 @@
+import './ProjectCard.css'
+
 export const ProjectCard = (project) => `
 <div class="project-card">
 <img src=${project.image} alt=${project.title}/>

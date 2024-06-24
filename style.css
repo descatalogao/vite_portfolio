@@ -1,12 +1,6 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 
-@import "../my-portfolio/components/ProjectCard/ProjectCard.css";
-@import "../my-portfolio/components/Navbar/Navbar.css";
-@import "../my-portfolio/components/Footer/Footer.css";
-@import "../my-portfolio/components/Divider/Divider.css";
-@import "../my-portfolio/components/Button/Button.css";
-
 :root {
   --primary-dark: whitesmoke;
   --bg-dark: #111111;
